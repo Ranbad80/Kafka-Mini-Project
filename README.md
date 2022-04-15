@@ -21,4 +21,6 @@ after making the detector and generator:
 $ bin/kafka-topics.sh --create --topic streaming.transactions --bootstrap-server localhost:9092
 
 docker-compose -f docker-compose.kafka.yml exec broker kafka-console-consumer --bootstrap-server localhost:9092 --topic streaming.transactions.legit
+
+
 docker-compose -f docker-compose.kafka.yml exec broker kafka-console-consumer --bootstrap-server localhost:9092 --topic streaming.transactions.fraud![Kafka1](https://user-images.githubusercontent.com/83798130/163633623-4c477c48-7cd9-4094-b99a-a5f91a76db56.jpg)
