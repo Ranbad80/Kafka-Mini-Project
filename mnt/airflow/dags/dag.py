@@ -1,7 +1,3 @@
-"""
-YOUR DATA PIPELINE GOES HERE
-"""
-
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
 from airflow.operators.bash_operator import BashOperator
