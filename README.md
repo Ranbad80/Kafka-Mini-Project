@@ -27,4 +27,4 @@ After completing you can use ./stop.sh to stop the services
 ./reset.sh to completely wipe out all the images 
 
 # Log Analyzer
-[log_analyzer.py]() is created to monitor all the error messages within the log files by running with below command line as example:
+[log_analyzer.py](https://github.com/Ranbad80/SpringBoardProject/blob/Airflow-Mini-Project-DAG-Scheduling/mnt/airflow/dags/Log_Analyzer.py) is created to monitor all the error messages within the log files by running with below command line as example:
