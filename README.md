@@ -28,3 +28,9 @@ After completing you can use ./stop.sh to stop the services
 
 # Log Analyzer
 [log_analyzer.py](https://github.com/Ranbad80/SpringBoardProject/blob/Airflow-Mini-Project-DAG-Scheduling/mnt/airflow/dags/Log_Analyzer.py) is created to monitor all the error messages within the log files by running with below command line as example:
+
+
+![log analyzer-2](https://user-images.githubusercontent.com/83798130/164516690-1956c464-0b13-4a88-bd25-4b6bb06a49b0.jpg)
+![log analyzer-3](https://user-images.githubusercontent.com/83798130/164516838-861f146b-c8e4-4384-88da-2a16e173fd8f.jpg)
+![loganalyzer](https://user-images.githubusercontent.com/83798130/164516853-92dba94a-c275-4c55-8e89-12051bfff45c.jpg)
+
