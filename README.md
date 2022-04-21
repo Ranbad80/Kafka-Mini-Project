@@ -1,4 +1,6 @@
-# Airflow Mini-Project DAG Scheduling
+# Airflow Mini-Project DAG Scheduling & Log Analyzer:
+
+# DAG Scheduling:
  
  we use Docker to establish the airflow platform:
  
@@ -23,3 +25,6 @@ we can trigger our dag in dag.py![dag1](https://user-images.githubusercontent.co
 
 After completing you can use ./stop.sh to stop the services
 ./reset.sh to completely wipe out all the images 
+
+# Log Analyzer
+[log_analyzer.py]() is created to monitor all the error messages within the log files by running with below command line as example:
