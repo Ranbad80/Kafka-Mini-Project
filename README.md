@@ -1,4 +1,4 @@
-# Airflow Mini-Project DAG Scheduling & Log Analyzer:
+# Airflow Stock Market DAG Scheduling & Log Analyzer:
 
 # DAG Scheduling:
  
